@@ -11,7 +11,7 @@ I'm **Kris**.
 
 I like _mozzarella cheeze_.
 
-![Kr](https://avatars.githubusercontent.com/u/47734964?s=460&u=1f0e8aeb350bcaf7cc98daacbb4cbba7816bd9f6&v=4)
+![Kr](https://gph.is/g/4VmpGQ6)
 
 I ~~like~~ love to code.
 ___
