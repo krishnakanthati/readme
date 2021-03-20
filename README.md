@@ -11,7 +11,7 @@ I'm **Kris**.
 
 I like _mozzarella cheeze_.
 
-![Kr](https://media.giphy.com/media/Qs0QEnugOy0xIsFkpD/giphy.gif)
+![Kr](https://media.giphy.com/media/l41JU9pUyosHzWyuQ/giphy.gif)
 
 I ~~like~~ love to code.
 ___
