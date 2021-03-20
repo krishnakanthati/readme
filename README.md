@@ -20,7 +20,7 @@ ___
 
 <!-- Links -->
 
-[Google](https://www.google.com "google")
+Why don't you [Google](https://www.google.com "google") it yourself.
 
 ---
 #### Unordered List
